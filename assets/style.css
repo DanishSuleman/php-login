@@ -1,0 +1,9 @@
+  .password-wrap{
+    position: relative;
+  }
+
+  .eye-btn{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+  }
